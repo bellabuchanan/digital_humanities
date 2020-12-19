@@ -1,14 +1,14 @@
 [{
     "go": "white", 
     "group-total": 4089,
-    "rec": "Financial Bond",
+    "rec": "$ Bond",
     "Paid + released": 70.75,
     "No release": 29.25
     
 },{
     "go": "black",
     "group-total": 21013,
-    "rec": "Financial Bond",
+    "rec": "$ Bond",
     "Paid + released": 69.70,
     "No release": 31.30
     
