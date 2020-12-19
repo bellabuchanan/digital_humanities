@@ -1,0 +1,56 @@
+[
+    {
+        "C-Bond": 0.12,
+        "COEM": 8.26,
+        "D-Bond": 26.59,
+        "I-Bond": 54.79,
+        "No bail": 1.56,
+        "go": "white",
+        "rec": "Low Risk"
+    },
+    {
+        "C-Bond": 0.28,
+        "COEM": 10.70,
+        "D-Bond": 33.54,
+        "I-Bond": 10.37,
+        "No bail": 2.80,
+        "go": "black",
+       "rec": "Low Risk"
+    },
+    {
+        "C-Bond": 0.22,
+        "COEM": 15.16,
+        "D-Bond": 39.30,
+        "I-Bond": 43.06,
+        "No bail": 2.25,
+        "go": "white",
+        "rec": "Medium Risk"
+    },
+    {
+        "C-Bond": 0.28,
+        "COEM": 18.36,
+        "D-Bond": 39.81,
+        "I-Bond": 36.81,
+        "No bail": 4.66,
+        "go": "black",
+        "rec": "Medium Risk"
+    },
+    {
+        "C-Bond": 0.09,
+        "COEM": 21.36,
+        "D-Bond": 52.17,
+        "I-Bond": 21.36,
+        "No bail": 5.01,
+        "go": "white",
+        "rec": "High Risk"
+    },
+    {
+        "C-Bond": 0.23,
+        "COEM": 24.29,
+        "D-Bond": 51.45,
+        "I-Bond": 16.31,
+        "No bail": 7.72,
+        "go": "black",
+        "rec": "High Risk"
+    }
+]
